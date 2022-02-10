@@ -7,7 +7,7 @@ url_base = 'https://www.stateuniversity.com/rank/score_rank_by_pubc/{}'
 df = pd.DataFrame(columns=['School'])
 
 for x in range(25):
-	r = requests.get(url_base.format(p))
+	r = requests.get(url_base.format(x))
 	soup = bs(r.content,'html.parser')
 	find_tbody = soup.find('tbody')
 	content = find_tbody.find_all('td',class_=False)
