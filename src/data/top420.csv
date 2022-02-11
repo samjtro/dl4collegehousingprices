@@ -1,421 +1,421 @@
-,School
-0,College of William and Mary
-1,United States Naval Academy
-2,United States Military Academy
-3,University of Georgia
-4,Pennsylvania State University-Main Campus
-5,University of North Carolina at Chapel Hill
-6,North Carolina State University at Raleigh
-7,Virginia Polytechnic Institute and State University
-8,Clemson University
-9,University of Virginia-Main Campus
-10,University of Michigan-Ann Arbor
-11,The University of Texas at Austin
-12,Georgia Institute of Technology-Main Campus
-13,University of Illinois at Urbana-Champaign
-14,University of Florida
-15,University of Massachusetts-Amherst
-16,University of Delaware
-17,College of William and Mary
-18,United States Naval Academy
-19,United States Military Academy
-20,University of Georgia
-21,Pennsylvania State University-Main Campus
-22,University of North Carolina at Chapel Hill
-23,North Carolina State University at Raleigh
-24,Virginia Polytechnic Institute and State University
-25,Clemson University
-26,University of Virginia-Main Campus
-27,University of Michigan-Ann Arbor
-28,The University of Texas at Austin
-29,Georgia Institute of Technology-Main Campus
-30,University of Illinois at Urbana-Champaign
-31,University of Florida
-32,University of Massachusetts-Amherst
-33,University of Delaware
-34,Purdue University-Main Campus
-35,Miami University-Oxford
-36,Indiana University-Bloomington
-37,University of Maryland-College Park
-38,The University of Tennessee-Knoxville
-39,University of Oklahoma-Norman Campus
-40,Michigan State University
-41,University of Connecticut
-42,Colorado School of Mines
-43,University of Puerto Rico-Rio Piedras
-44,Auburn University
-45,University of Minnesota-Twin Cities
-46,University of California-Berkeley
-47,Binghamton University
-48,Texas A & M University-College Station
-49,University of California-Santa Barbara
-50,Florida State University
-51,University of Utah
-52,University of Wisconsin-Madison
-53,University of Pittsburgh-Pittsburgh Campus
-54,Michigan Technological University
-55,James Madison University
-56,California Polytechnic State University-San Luis Obispo
-57,Oregon State University
-58,University of California-Davis
-59,Appalachian State University
-60,University of Colorado Boulder
-61,University of Nebraska-Lincoln
-62,Iowa State University
-63,Arizona State University-Tempe
-64,Truman State University
-65,University of California-San Diego
-66,University of Wisconsin-La Crosse
-67,University of Oregon
-68,Oklahoma State University-Main Campus
-69,University of California-Riverside
-70,Pennsylvania State University-Penn State Erie-Behrend College
-71,University of California-Los Angeles
-72,Colorado State University-Fort Collins
-73,The University of Alabama
-74,University of Arkansas
-75,University of California-Irvine
-76,Arizona State University-West
-77,United States Air Force Academy
-78,University of Washington-Seattle Campus
-79,Georgia College & State University
-80,University of Idaho
-81,University of Maryland-Baltimore County
-82,Missouri University of Science and Technology
-83,University of Kentucky
-84,Christopher Newport University
-85,Rutgers University-New Brunswick
-86,Texas Tech University
-87,University of South Carolina-Columbia
-88,Louisiana State University and Agricultural & Mechanical College
-89,The University of Texas at Dallas
-90,New Jersey Institute of Technology
-91,University of California-Santa Cruz
-92,The College of New Jersey
-93,University of Wyoming
-94,University of Central Florida
-95,University of Houston
-96,University of South Florida-Main Campus
-97,George Mason University
-98,Grand Valley State University
-99,University of Massachusetts-Lowell
-100,University of North Carolina Wilmington
-101,University of Kansas
-102,Pennsylvania State University-Penn State Harrisburg
-103,University of Mary Washington
-104,SUNY College at Geneseo
-105,Ohio State University-Main Campus
-106,University at Buffalo
-107,University of Missouri-Columbia
-108,University of New Hampshire-Main Campus
-109,New College of Florida
-110,Mississippi State University
-111,Temple University
-112,University of Northern Iowa
-113,Rutgers University-Newark
-114,University of Iowa
-115,Georgia State University
-116,Florida Agricultural and Mechanical University
-117,Ball State University
-118,Florida International University
-119,University of Alabama in Huntsville
-120,University of Rhode Island
-121,Murray State University
-122,Stony Brook University
-123,West Chester University of Pennsylvania
-124,University of Mississippi
-125,University of Vermont
-126,University of Arizona
-127,CUNY Bernard M Baruch College
-128,University of Hawaii at Manoa
-129,University of Cincinnati-Main Campus
-130,East Carolina University
-131,San Diego State University
-132,State University of New York at New Paltz
-133,University of Illinois at Springfield
-134,Ohio University-Main Campus
-135,University of Wisconsin-Eau Claire
-136,University of North Carolina at Charlotte
-137,University of Minnesota-Duluth
-138,Virginia Commonwealth University
-139,North Dakota State University-Main Campus
-140,Oregon Institute of Technology
-141,University of Illinois at Chicago
-142,University of Maine
-143,Salisbury University
-144,University of Michigan-Dearborn
-145,Pennsylvania State University-Penn State York
-146,University of Wisconsin-Whitewater
-147,Towson University
-148,Ramapo College of New Jersey
-149,University of California-Merced
-150,South Dakota State University
-151,College of Charleston
-152,Slippery Rock University of Pennsylvania
-153,Pennsylvania State University-Penn State Altoona
-154,Arkansas State University-Main Campus
-155,University of Louisville
-156,Illinois State University
-157,Western Michigan University
-158,Western Carolina University
-159,Western Washington University
-160,University of North Florida
-161,Pittsburg State University
-162,Middle Tennessee State University
-163,CUNY City College
-164,Washington State University
-165,Florida Atlantic University
-166,University of Washington-Tacoma Campus
-167,CUNY Queens College
-168,University of Nevada-Reno
-169,University of Alabama at Birmingham
-170,SUNY at Albany
-171,University of Memphis
-172,University of North Dakota
-173,California State University-Fullerton
-174,California State University-Long Beach
-175,Georgia Southern University
-176,Montana Technological University
-177,North Carolina Central University
-178,University of South Dakota
-179,Utah State University
-180,Emporia State University
-181,CUNY Hunter College
-182,California State Polytechnic University-Pomona
-183,University of Massachusetts-Boston
-184,Southern Illinois University-Edwardsville
-185,Rutgers University-Camden
-186,CUNY Brooklyn College
-187,Wichita State University
-188,Boise State University
-189,SUNY Cortland
-190,Kent State University at Kent
-191,University of Missouri-St Louis
-192,California State University-Chico
-193,University of North Carolina at Greensboro
-194,University of Central Arkansas
-195,Central Michigan University
-196,University of New Hampshire at Manchester
-197,University of Wisconsin-Oshkosh
-198,The University of West Florida
-199,Stockton University
-200,University of Alaska Fairbanks
-201,SUNY College at Plattsburgh
-202,SUNY College of Technology at Delhi
-203,Kansas State University
-204,University of North Carolina at Asheville
-205,Old Dominion University
-206,University of Missouri-Kansas City
-207,Longwood University
-208,Wayne State University
-209,Louisiana Tech University
-210,Ferris State University
-211,The University of Tennessee-Martin
-212,Tennessee Technological University
-213,Northern Illinois University
-214,West Virginia University
-215,SUNY College at Oswego
-216,Missouri State University-Springfield
-217,University of North Texas
-218,California State University-Stanislaus
-219,Winona State University
-220,Northwest Missouri State University
-221,Millersville University of Pennsylvania
-222,University of Houston-Clear Lake
-223,Winston-Salem State University
-224,SUNY at Purchase College
-225,San Jose State University
-226,Montana State University
-227,University of Toledo
-228,Frostburg State University
-229,Texas State University
-230,University of North Georgia
-231,Bowling Green State University-Main Campus
-232,Rowan University
-233,Edinboro University of Pennsylvania
-234,Kutztown University of Pennsylvania
-235,Sam Houston State University
-236,CUNY Lehman College
-237,The University of Texas Rio Grande Valley
-238,University of Pittsburgh-Johnstown
-239,Southeast Missouri State University
-240,University of Wisconsin-Milwaukee
-241,New Mexico State University-Main Campus
-242,University of Baltimore
-243,Jacksonville State University
-244,Winthrop University
-245,Morehead State University
-246,Clarion University of Pennsylvania
-247,Eastern Connecticut State University
-248,Southern Illinois University-Carbondale
-249,Florida Gulf Coast University
-250,University of Nebraska at Omaha
-251,Northern Michigan University
-252,Northern Arizona University
-253,Pennsylvania State University-Penn State Lehigh Valley
-254,Eastern Illinois University
-255,California State University-Fresno
-256,Western Oregon University
-257,Southern Utah University
-258,California State University-Monterey Bay
-259,University of Central Missouri
-260,Worcester State University
-261,Minnesota State University-Mankato
-262,California State University-San Bernardino
-263,University of North Alabama
-264,University of Massachusetts-Dartmouth
-265,Portland State University
-266,Saginaw Valley State University
-267,University of Louisiana at Lafayette
-268,Shippensburg University of Pennsylvania
-269,University of Southern Mississippi
-270,Minnesota State University Moorhead
-271,Radford University
-272,San Francisco State University
-273,Morgan State University
-274,SUNY at Fredonia
-275,University of Michigan-Flint
-276,The University of Tennessee-Chattanooga
-277,Eastern Kentucky University
-278,Oakland University
-279,Bloomsburg University of Pennsylvania
-280,University of Puerto Rico-Mayaguez
-281,Sonoma State University
-282,Southern Polytechnic State University
-283,Nicholls State University
-284,California State University-Channel Islands
-285,University of North Carolina at Pembroke
-286,University of Wisconsin-Stout
-287,University of Arkansas at Little Rock
-288,University of New Mexico-Main Campus
-289,East Tennessee State University
-290,SUNY College at Brockport
-291,Montclair State University
-292,University of Northern Colorado
-293,University of Nevada-Las Vegas
-294,The University of Montana
-295,California State University-Sacramento
-296,Pennsylvania State University-Penn State Abington
-297,Bemidji State University
-298,University of South Alabama
-299,California State University-Bakersfield
-300,Western Kentucky University
-301,CUNY John Jay College of Criminal Justice
-302,Stephen F Austin State University
-303,Eastern Michigan University
-304,California State University-Northridge
-305,Farmingdale State College
-306,The University of Texas at Arlington
-307,Southeastern Louisiana University
-308,Pennsylvania State University-Penn State DuBois
-309,The University of Texas at San Antonio
-310,Marshall University
-311,Central Connecticut State University
-312,University of Southern Indiana
-313,Dickinson State University
-314,Saint Cloud State University
-315,Georgia Highlands College
-316,The University of Texas at El Paso
-317,North Carolina A & T State University
-318,Kennesaw State University
-319,University of New Orleans
-320,Western Illinois University
-321,SUNY College at Old Westbury
-322,California State University-Los Angeles
-323,Columbus State University
-324,SUNY College of Technology at Canton
-325,University of Louisiana at Monroe
-326,Indiana University of Pennsylvania-Main Campus
-327,University of Wisconsin-Green Bay
-328,Bridgewater State University
-329,Fitchburg State University
-330,Eastern Washington University
-331,Delaware State University
-332,Clayton  State University
-333,Dakota State University
-334,California University of Pennsylvania
-335,Texas Woman's University
-336,Youngstown State University
-337,Pennsylvania College of Technology
-338,Alcorn State University
-339,Troy University
-340,College of Staten Island CUNY
-341,California State University-Dominguez Hills
-342,Salem State University
-343,University of Arkansas at Pine Bluff
-344,Coastal Carolina University
-345,Keene State College
-346,Prairie View A & M University
-347,Cleveland State University
-348,California State University-East Bay
-349,Lock Haven University
-350,Westfield State University
-351,Grambling State University
-352,Rhode Island College
-353,University of Hawaii at Hilo
-354,University of West Georgia
-355,Texas A & M International University
-356,University of Akron Main Campus
-357,Fayetteville State University
-358,SUNY College of Technology at Alfred
-359,Minot State University
-360,Southern Connecticut State University
-361,Delta State University
-362,Lamar University
-363,Central Washington University
-364,West Texas A & M University
-365,California State University-San Marcos
-366,University of Colorado Colorado Springs
-367,Norfolk State University
-368,Eastern Oregon University
-369,Southwestern Oklahoma State University
-370,Francis Marion University
-371,Northwestern State University of Louisiana
-372,Mansfield University of Pennsylvania
-373,SUNY College at Potsdam
-374,Framingham State University
-375,University of Colorado Denver/Anschutz Medical Campus
-376,Fort Valley State University
-377,East Stroudsburg University of Pennsylvania
-378,University of Central Oklahoma
-379,The University of Texas at Tyler
-380,Texas A & M University-Kingsville
-381,University of Pittsburgh-Greensburg
-382,Humboldt State University
-383,Purdue University Global-Davenport
-384,The Evergreen State College
-385,Purdue University-Calumet Campus
-386,Lincoln University
-387,McNeese State University
-388,Wright State University-Main Campus
-389,University of Houston-Downtown
-390,Chicago State University
-391,Lewis-Clark State College
-392,Auburn University at Montgomery
-393,New Jersey City University
-394,Colorado Mesa University
-395,University of Southern Maine
-396,Savannah State University
-397,Valdosta State University
-398,Henderson State University
-399,Angelo State University
-400,Virginia State University
-401,University of Maryland Eastern Shore
-402,Tarleton State University
-403,Plymouth State University
-404,Mississippi Valley State University
-405,Austin Peay State University
-406,Northeastern State University
-407,Texas A & M University-Commerce
-408,Indiana University-Purdue University-Indianapolis
-409,Armstrong State University
-410,Southern Oregon University
-411,Fort Lewis College
-412,Shepherd University
-413,William Paterson University of New Jersey
-414,Bowie State University
-415,Midwestern State University
-416,Colorado State University-Pueblo
-417,Indiana University-South Bend
-418,Abraham Baldwin Agricultural College
-419,Augusta State University
+School,Zip
+College of William and Mary,College of William and Mary
+United States Naval Academy,United States Naval Academy
+United States Military Academy,United States Military Academy
+University of Georgia,University of Georgia
+Pennsylvania State University-Main Campus,Pennsylvania State University-Main Campus
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill
+North Carolina State University at Raleigh,North Carolina State University at Raleigh
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University
+Clemson University,Clemson University
+University of Virginia-Main Campus,University of Virginia-Main Campus
+University of Michigan-Ann Arbor,University of Michigan-Ann Arbor
+The University of Texas at Austin,The University of Texas at Austin
+Georgia Institute of Technology-Main Campus,Georgia Institute of Technology-Main Campus
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign
+University of Florida,University of Florida
+University of Massachusetts-Amherst,University of Massachusetts-Amherst
+University of Delaware,University of Delaware
+College of William and Mary,College of William and Mary
+United States Naval Academy,United States Naval Academy
+United States Military Academy,United States Military Academy
+University of Georgia,University of Georgia
+Pennsylvania State University-Main Campus,Pennsylvania State University-Main Campus
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill
+North Carolina State University at Raleigh,North Carolina State University at Raleigh
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University
+Clemson University,Clemson University
+University of Virginia-Main Campus,University of Virginia-Main Campus
+University of Michigan-Ann Arbor,University of Michigan-Ann Arbor
+The University of Texas at Austin,The University of Texas at Austin
+Georgia Institute of Technology-Main Campus,Georgia Institute of Technology-Main Campus
+University of Illinois at Urbana-Champaign,University of Illinois at Urbana-Champaign
+University of Florida,University of Florida
+University of Massachusetts-Amherst,University of Massachusetts-Amherst
+University of Delaware,University of Delaware
+Purdue University-Main Campus,Purdue University-Main Campus
+Miami University-Oxford,Miami University-Oxford
+Indiana University-Bloomington,Indiana University-Bloomington
+University of Maryland-College Park,University of Maryland-College Park
+The University of Tennessee-Knoxville,The University of Tennessee-Knoxville
+University of Oklahoma-Norman Campus,University of Oklahoma-Norman Campus
+Michigan State University,Michigan State University
+University of Connecticut,University of Connecticut
+Colorado School of Mines,Colorado School of Mines
+University of Puerto Rico-Rio Piedras,University of Puerto Rico-Rio Piedras
+Auburn University,Auburn University
+University of Minnesota-Twin Cities,University of Minnesota-Twin Cities
+University of California-Berkeley,University of California-Berkeley
+Binghamton University,Binghamton University
+Texas A & M University-College Station,Texas A & M University-College Station
+University of California-Santa Barbara,University of California-Santa Barbara
+Florida State University,Florida State University
+University of Utah,University of Utah
+University of Wisconsin-Madison,University of Wisconsin-Madison
+University of Pittsburgh-Pittsburgh Campus,University of Pittsburgh-Pittsburgh Campus
+Michigan Technological University,Michigan Technological University
+James Madison University,James Madison University
+California Polytechnic State University-San Luis Obispo,California Polytechnic State University-San Luis Obispo
+Oregon State University,Oregon State University
+University of California-Davis,University of California-Davis
+Appalachian State University,Appalachian State University
+University of Colorado Boulder,University of Colorado Boulder
+University of Nebraska-Lincoln,University of Nebraska-Lincoln
+Iowa State University,Iowa State University
+Arizona State University-Tempe,Arizona State University-Tempe
+Truman State University,Truman State University
+University of California-San Diego,University of California-San Diego
+University of Wisconsin-La Crosse,University of Wisconsin-La Crosse
+University of Oregon,University of Oregon
+Oklahoma State University-Main Campus,Oklahoma State University-Main Campus
+University of California-Riverside,University of California-Riverside
+Pennsylvania State University-Penn State Erie-Behrend College,Pennsylvania State University-Penn State Erie-Behrend College
+University of California-Los Angeles,University of California-Los Angeles
+Colorado State University-Fort Collins,Colorado State University-Fort Collins
+The University of Alabama,The University of Alabama
+University of Arkansas,University of Arkansas
+University of California-Irvine,University of California-Irvine
+Arizona State University-West,Arizona State University-West
+United States Air Force Academy,United States Air Force Academy
+University of Washington-Seattle Campus,University of Washington-Seattle Campus
+Georgia College & State University,Georgia College & State University
+University of Idaho,University of Idaho
+University of Maryland-Baltimore County,University of Maryland-Baltimore County
+Missouri University of Science and Technology,Missouri University of Science and Technology
+University of Kentucky,University of Kentucky
+Christopher Newport University,Christopher Newport University
+Rutgers University-New Brunswick,Rutgers University-New Brunswick
+Texas Tech University,Texas Tech University
+University of South Carolina-Columbia,University of South Carolina-Columbia
+Louisiana State University and Agricultural & Mechanical College,Louisiana State University and Agricultural & Mechanical College
+The University of Texas at Dallas,The University of Texas at Dallas
+New Jersey Institute of Technology,New Jersey Institute of Technology
+University of California-Santa Cruz,University of California-Santa Cruz
+The College of New Jersey,The College of New Jersey
+University of Wyoming,University of Wyoming
+University of Central Florida,University of Central Florida
+University of Houston,University of Houston
+University of South Florida-Main Campus,University of South Florida-Main Campus
+George Mason University,George Mason University
+Grand Valley State University,Grand Valley State University
+University of Massachusetts-Lowell,University of Massachusetts-Lowell
+University of North Carolina Wilmington,University of North Carolina Wilmington
+University of Kansas,University of Kansas
+Pennsylvania State University-Penn State Harrisburg,Pennsylvania State University-Penn State Harrisburg
+University of Mary Washington,University of Mary Washington
+SUNY College at Geneseo,SUNY College at Geneseo
+Ohio State University-Main Campus,Ohio State University-Main Campus
+University at Buffalo,University at Buffalo
+University of Missouri-Columbia,University of Missouri-Columbia
+University of New Hampshire-Main Campus,University of New Hampshire-Main Campus
+New College of Florida,New College of Florida
+Mississippi State University,Mississippi State University
+Temple University,Temple University
+University of Northern Iowa,University of Northern Iowa
+Rutgers University-Newark,Rutgers University-Newark
+University of Iowa,University of Iowa
+Georgia State University,Georgia State University
+Florida Agricultural and Mechanical University,Florida Agricultural and Mechanical University
+Ball State University,Ball State University
+Florida International University,Florida International University
+University of Alabama in Huntsville,University of Alabama in Huntsville
+University of Rhode Island,University of Rhode Island
+Murray State University,Murray State University
+Stony Brook University,Stony Brook University
+West Chester University of Pennsylvania,West Chester University of Pennsylvania
+University of Mississippi,University of Mississippi
+University of Vermont,University of Vermont
+University of Arizona,University of Arizona
+CUNY Bernard M Baruch College,CUNY Bernard M Baruch College
+University of Hawaii at Manoa,University of Hawaii at Manoa
+University of Cincinnati-Main Campus,University of Cincinnati-Main Campus
+East Carolina University,East Carolina University
+San Diego State University,San Diego State University
+State University of New York at New Paltz,State University of New York at New Paltz
+University of Illinois at Springfield,University of Illinois at Springfield
+Ohio University-Main Campus,Ohio University-Main Campus
+University of Wisconsin-Eau Claire,University of Wisconsin-Eau Claire
+University of North Carolina at Charlotte,University of North Carolina at Charlotte
+University of Minnesota-Duluth,University of Minnesota-Duluth
+Virginia Commonwealth University,Virginia Commonwealth University
+North Dakota State University-Main Campus,North Dakota State University-Main Campus
+Oregon Institute of Technology,Oregon Institute of Technology
+University of Illinois at Chicago,University of Illinois at Chicago
+University of Maine,University of Maine
+Salisbury University,Salisbury University
+University of Michigan-Dearborn,University of Michigan-Dearborn
+Pennsylvania State University-Penn State York,Pennsylvania State University-Penn State York
+University of Wisconsin-Whitewater,University of Wisconsin-Whitewater
+Towson University,Towson University
+Ramapo College of New Jersey,Ramapo College of New Jersey
+University of California-Merced,University of California-Merced
+South Dakota State University,South Dakota State University
+College of Charleston,College of Charleston
+Slippery Rock University of Pennsylvania,Slippery Rock University of Pennsylvania
+Pennsylvania State University-Penn State Altoona,Pennsylvania State University-Penn State Altoona
+Arkansas State University-Main Campus,Arkansas State University-Main Campus
+University of Louisville,University of Louisville
+Illinois State University,Illinois State University
+Western Michigan University,Western Michigan University
+Western Carolina University,Western Carolina University
+Western Washington University,Western Washington University
+University of North Florida,University of North Florida
+Pittsburg State University,Pittsburg State University
+Middle Tennessee State University,Middle Tennessee State University
+CUNY City College,CUNY City College
+Washington State University,Washington State University
+Florida Atlantic University,Florida Atlantic University
+University of Washington-Tacoma Campus,University of Washington-Tacoma Campus
+CUNY Queens College,CUNY Queens College
+University of Nevada-Reno,University of Nevada-Reno
+University of Alabama at Birmingham,University of Alabama at Birmingham
+SUNY at Albany,SUNY at Albany
+University of Memphis,University of Memphis
+University of North Dakota,University of North Dakota
+California State University-Fullerton,California State University-Fullerton
+California State University-Long Beach,California State University-Long Beach
+Georgia Southern University,Georgia Southern University
+Montana Technological University,Montana Technological University
+North Carolina Central University,North Carolina Central University
+University of South Dakota,University of South Dakota
+Utah State University,Utah State University
+Emporia State University,Emporia State University
+CUNY Hunter College,CUNY Hunter College
+California State Polytechnic University-Pomona,California State Polytechnic University-Pomona
+University of Massachusetts-Boston,University of Massachusetts-Boston
+Southern Illinois University-Edwardsville,Southern Illinois University-Edwardsville
+Rutgers University-Camden,Rutgers University-Camden
+CUNY Brooklyn College,CUNY Brooklyn College
+Wichita State University,Wichita State University
+Boise State University,Boise State University
+SUNY Cortland,SUNY Cortland
+Kent State University at Kent,Kent State University at Kent
+University of Missouri-St Louis,University of Missouri-St Louis
+California State University-Chico,California State University-Chico
+University of North Carolina at Greensboro,University of North Carolina at Greensboro
+University of Central Arkansas,University of Central Arkansas
+Central Michigan University,Central Michigan University
+University of New Hampshire at Manchester,University of New Hampshire at Manchester
+University of Wisconsin-Oshkosh,University of Wisconsin-Oshkosh
+The University of West Florida,The University of West Florida
+Stockton University,Stockton University
+University of Alaska Fairbanks,University of Alaska Fairbanks
+SUNY College at Plattsburgh,SUNY College at Plattsburgh
+SUNY College of Technology at Delhi,SUNY College of Technology at Delhi
+Kansas State University,Kansas State University
+University of North Carolina at Asheville,University of North Carolina at Asheville
+Old Dominion University,Old Dominion University
+University of Missouri-Kansas City,University of Missouri-Kansas City
+Longwood University,Longwood University
+Wayne State University,Wayne State University
+Louisiana Tech University,Louisiana Tech University
+Ferris State University,Ferris State University
+The University of Tennessee-Martin,The University of Tennessee-Martin
+Tennessee Technological University,Tennessee Technological University
+Northern Illinois University,Northern Illinois University
+West Virginia University,West Virginia University
+SUNY College at Oswego,SUNY College at Oswego
+Missouri State University-Springfield,Missouri State University-Springfield
+University of North Texas,University of North Texas
+California State University-Stanislaus,California State University-Stanislaus
+Winona State University,Winona State University
+Northwest Missouri State University,Northwest Missouri State University
+Millersville University of Pennsylvania,Millersville University of Pennsylvania
+University of Houston-Clear Lake,University of Houston-Clear Lake
+Winston-Salem State University,Winston-Salem State University
+SUNY at Purchase College,SUNY at Purchase College
+San Jose State University,San Jose State University
+Montana State University,Montana State University
+University of Toledo,University of Toledo
+Frostburg State University,Frostburg State University
+Texas State University,Texas State University
+University of North Georgia,University of North Georgia
+Bowling Green State University-Main Campus,Bowling Green State University-Main Campus
+Rowan University,Rowan University
+Edinboro University of Pennsylvania,Edinboro University of Pennsylvania
+Kutztown University of Pennsylvania,Kutztown University of Pennsylvania
+Sam Houston State University,Sam Houston State University
+CUNY Lehman College,CUNY Lehman College
+The University of Texas Rio Grande Valley,The University of Texas Rio Grande Valley
+University of Pittsburgh-Johnstown,University of Pittsburgh-Johnstown
+Southeast Missouri State University,Southeast Missouri State University
+University of Wisconsin-Milwaukee,University of Wisconsin-Milwaukee
+New Mexico State University-Main Campus,New Mexico State University-Main Campus
+University of Baltimore,University of Baltimore
+Jacksonville State University,Jacksonville State University
+Winthrop University,Winthrop University
+Morehead State University,Morehead State University
+Clarion University of Pennsylvania,Clarion University of Pennsylvania
+Eastern Connecticut State University,Eastern Connecticut State University
+Southern Illinois University-Carbondale,Southern Illinois University-Carbondale
+Florida Gulf Coast University,Florida Gulf Coast University
+University of Nebraska at Omaha,University of Nebraska at Omaha
+Northern Michigan University,Northern Michigan University
+Northern Arizona University,Northern Arizona University
+Pennsylvania State University-Penn State Lehigh Valley,Pennsylvania State University-Penn State Lehigh Valley
+Eastern Illinois University,Eastern Illinois University
+California State University-Fresno,California State University-Fresno
+Western Oregon University,Western Oregon University
+Southern Utah University,Southern Utah University
+California State University-Monterey Bay,California State University-Monterey Bay
+University of Central Missouri,University of Central Missouri
+Worcester State University,Worcester State University
+Minnesota State University-Mankato,Minnesota State University-Mankato
+California State University-San Bernardino,California State University-San Bernardino
+University of North Alabama,University of North Alabama
+University of Massachusetts-Dartmouth,University of Massachusetts-Dartmouth
+Portland State University,Portland State University
+Saginaw Valley State University,Saginaw Valley State University
+University of Louisiana at Lafayette,University of Louisiana at Lafayette
+Shippensburg University of Pennsylvania,Shippensburg University of Pennsylvania
+University of Southern Mississippi,University of Southern Mississippi
+Minnesota State University Moorhead,Minnesota State University Moorhead
+Radford University,Radford University
+San Francisco State University,San Francisco State University
+Morgan State University,Morgan State University
+SUNY at Fredonia,SUNY at Fredonia
+University of Michigan-Flint,University of Michigan-Flint
+The University of Tennessee-Chattanooga,The University of Tennessee-Chattanooga
+Eastern Kentucky University,Eastern Kentucky University
+Oakland University,Oakland University
+Bloomsburg University of Pennsylvania,Bloomsburg University of Pennsylvania
+University of Puerto Rico-Mayaguez,University of Puerto Rico-Mayaguez
+Sonoma State University,Sonoma State University
+Southern Polytechnic State University,Southern Polytechnic State University
+Nicholls State University,Nicholls State University
+California State University-Channel Islands,California State University-Channel Islands
+University of North Carolina at Pembroke,University of North Carolina at Pembroke
+University of Wisconsin-Stout,University of Wisconsin-Stout
+University of Arkansas at Little Rock,University of Arkansas at Little Rock
+University of New Mexico-Main Campus,University of New Mexico-Main Campus
+East Tennessee State University,East Tennessee State University
+SUNY College at Brockport,SUNY College at Brockport
+Montclair State University,Montclair State University
+University of Northern Colorado,University of Northern Colorado
+University of Nevada-Las Vegas,University of Nevada-Las Vegas
+The University of Montana,The University of Montana
+California State University-Sacramento,California State University-Sacramento
+Pennsylvania State University-Penn State Abington,Pennsylvania State University-Penn State Abington
+Bemidji State University,Bemidji State University
+University of South Alabama,University of South Alabama
+California State University-Bakersfield,California State University-Bakersfield
+Western Kentucky University,Western Kentucky University
+CUNY John Jay College of Criminal Justice,CUNY John Jay College of Criminal Justice
+Stephen F Austin State University,Stephen F Austin State University
+Eastern Michigan University,Eastern Michigan University
+California State University-Northridge,California State University-Northridge
+Farmingdale State College,Farmingdale State College
+The University of Texas at Arlington,The University of Texas at Arlington
+Southeastern Louisiana University,Southeastern Louisiana University
+Pennsylvania State University-Penn State DuBois,Pennsylvania State University-Penn State DuBois
+The University of Texas at San Antonio,The University of Texas at San Antonio
+Marshall University,Marshall University
+Central Connecticut State University,Central Connecticut State University
+University of Southern Indiana,University of Southern Indiana
+Dickinson State University,Dickinson State University
+Saint Cloud State University,Saint Cloud State University
+Georgia Highlands College,Georgia Highlands College
+The University of Texas at El Paso,The University of Texas at El Paso
+North Carolina A & T State University,North Carolina A & T State University
+Kennesaw State University,Kennesaw State University
+University of New Orleans,University of New Orleans
+Western Illinois University,Western Illinois University
+SUNY College at Old Westbury,SUNY College at Old Westbury
+California State University-Los Angeles,California State University-Los Angeles
+Columbus State University,Columbus State University
+SUNY College of Technology at Canton,SUNY College of Technology at Canton
+University of Louisiana at Monroe,University of Louisiana at Monroe
+Indiana University of Pennsylvania-Main Campus,Indiana University of Pennsylvania-Main Campus
+University of Wisconsin-Green Bay,University of Wisconsin-Green Bay
+Bridgewater State University,Bridgewater State University
+Fitchburg State University,Fitchburg State University
+Eastern Washington University,Eastern Washington University
+Delaware State University,Delaware State University
+Clayton  State University,Clayton  State University
+Dakota State University,Dakota State University
+California University of Pennsylvania,California University of Pennsylvania
+Texas Woman's University,Texas Woman's University
+Youngstown State University,Youngstown State University
+Pennsylvania College of Technology,Pennsylvania College of Technology
+Alcorn State University,Alcorn State University
+Troy University,Troy University
+College of Staten Island CUNY,College of Staten Island CUNY
+California State University-Dominguez Hills,California State University-Dominguez Hills
+Salem State University,Salem State University
+University of Arkansas at Pine Bluff,University of Arkansas at Pine Bluff
+Coastal Carolina University,Coastal Carolina University
+Keene State College,Keene State College
+Prairie View A & M University,Prairie View A & M University
+Cleveland State University,Cleveland State University
+California State University-East Bay,California State University-East Bay
+Lock Haven University,Lock Haven University
+Westfield State University,Westfield State University
+Grambling State University,Grambling State University
+Rhode Island College,Rhode Island College
+University of Hawaii at Hilo,University of Hawaii at Hilo
+University of West Georgia,University of West Georgia
+Texas A & M International University,Texas A & M International University
+University of Akron Main Campus,University of Akron Main Campus
+Fayetteville State University,Fayetteville State University
+SUNY College of Technology at Alfred,SUNY College of Technology at Alfred
+Minot State University,Minot State University
+Southern Connecticut State University,Southern Connecticut State University
+Delta State University,Delta State University
+Lamar University,Lamar University
+Central Washington University,Central Washington University
+West Texas A & M University,West Texas A & M University
+California State University-San Marcos,California State University-San Marcos
+University of Colorado Colorado Springs,University of Colorado Colorado Springs
+Norfolk State University,Norfolk State University
+Eastern Oregon University,Eastern Oregon University
+Southwestern Oklahoma State University,Southwestern Oklahoma State University
+Francis Marion University,Francis Marion University
+Northwestern State University of Louisiana,Northwestern State University of Louisiana
+Mansfield University of Pennsylvania,Mansfield University of Pennsylvania
+SUNY College at Potsdam,SUNY College at Potsdam
+Framingham State University,Framingham State University
+University of Colorado Denver/Anschutz Medical Campus,University of Colorado Denver/Anschutz Medical Campus
+Fort Valley State University,Fort Valley State University
+East Stroudsburg University of Pennsylvania,East Stroudsburg University of Pennsylvania
+University of Central Oklahoma,University of Central Oklahoma
+The University of Texas at Tyler,The University of Texas at Tyler
+Texas A & M University-Kingsville,Texas A & M University-Kingsville
+University of Pittsburgh-Greensburg,University of Pittsburgh-Greensburg
+Humboldt State University,Humboldt State University
+Purdue University Global-Davenport,Purdue University Global-Davenport
+The Evergreen State College,The Evergreen State College
+Purdue University-Calumet Campus,Purdue University-Calumet Campus
+Lincoln University,Lincoln University
+McNeese State University,McNeese State University
+Wright State University-Main Campus,Wright State University-Main Campus
+University of Houston-Downtown,University of Houston-Downtown
+Chicago State University,Chicago State University
+Lewis-Clark State College,Lewis-Clark State College
+Auburn University at Montgomery,Auburn University at Montgomery
+New Jersey City University,New Jersey City University
+Colorado Mesa University,Colorado Mesa University
+University of Southern Maine,University of Southern Maine
+Savannah State University,Savannah State University
+Valdosta State University,Valdosta State University
+Henderson State University,Henderson State University
+Angelo State University,Angelo State University
+Virginia State University,Virginia State University
+University of Maryland Eastern Shore,University of Maryland Eastern Shore
+Tarleton State University,Tarleton State University
+Plymouth State University,Plymouth State University
+Mississippi Valley State University,Mississippi Valley State University
+Austin Peay State University,Austin Peay State University
+Northeastern State University,Northeastern State University
+Texas A & M University-Commerce,Texas A & M University-Commerce
+Indiana University-Purdue University-Indianapolis,Indiana University-Purdue University-Indianapolis
+Armstrong State University,Armstrong State University
+Southern Oregon University,Southern Oregon University
+Fort Lewis College,Fort Lewis College
+Shepherd University,Shepherd University
+William Paterson University of New Jersey,William Paterson University of New Jersey
+Bowie State University,Bowie State University
+Midwestern State University,Midwestern State University
+Colorado State University-Pueblo,Colorado State University-Pueblo
+Indiana University-South Bend,Indiana University-South Bend
+Abraham Baldwin Agricultural College,Abraham Baldwin Agricultural College
+Augusta State University,Augusta State University

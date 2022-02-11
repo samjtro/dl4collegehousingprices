@@ -11,5 +11,18 @@ for x in range(len(df['School'])):
 	formatted_school_name = '+'.join(spliced_school_name)
 	url_formatted = url_base.format(formatted_school_name)
 
-r = requests.get(url_formatted)
-soup = bs(r.content,'html.parser')
+	r = requests.get(url_formatted)
+	soup = bs(r.content,'html.parser')
+	content = soup.text
+	spliced_soup = content.split(" ")
+
+	zip_codes = ''
+	for y in spliced_soup:
+		if len(y) == 5:
+			if y.isdigit() == True:
+				zip_codes += ',' + y
+
+	df['Zip'][x] = zip_codes
+	print('*added zip*')
+
+df.to_csv('top420f.csv',index=False)

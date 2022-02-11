@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 
 url_base = 'https://www.stateuniversity.com/rank/score_rank_by_pubc/{}'
-
-df = pd.DataFrame(columns=['School'])
+df = pd.DataFrame(columns=['School','Zip'])
 
 for x in range(25):
 	r = requests.get(url_base.format(x))
@@ -17,3 +16,5 @@ for x in range(25):
 			for c in b:
 				if len(c) > 2:
 					df.loc[len(df.index)] = c
+					
+df.to_csv('top420.csv',index=False)
