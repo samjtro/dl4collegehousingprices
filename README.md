@@ -18,16 +18,13 @@ see the license. anything you want, as long as you credit me.
 
 ### file descriptions + local build notes
 
-1. school.py
-  desc: fetches school names for top 500 public schools in the country
-2. zip.py
-  desc: fetches zip codes
-3. drop_empty.py
-  desc: drops rows with empty zip codes
-4. drop_dupes.py
-  desc: drops duplicate schools - you are left with 204, hence the name final_204.csv
-5. final.py
-  desc: the big daddy - fetches all data from RDC_Inventory.csv (current housing market data by zip from RDC) and the final_204 file, uses a matching algorithm makes matches between the zip codes in both documents and creates a final dataframe with the School, Zip, and all RDC data for each.
+1. data.py
+  desc: all web scraping / data gathering functions
+    - fetches school names for top 500 public schools in the country
+    - fetches zip codes
+    - drops rows with empty zip codes
+    - drops duplicate school rows and duplicate zip codes
+    - fetches data from RDC_Inventory.csv (current housing market data by zip from RDC), uses a matching algorithm to make matches between the zip codes in both dataframes and creates a final dataframe with the School, Zip, and market data
 
 keep in mind that the zip fetching function is inaccurate; while it grabs all zip codes on the page, some are wrong; this is because it simply makes a google search request for an address and fetches strings that are digits & == len(5). it is an ugly way of doing things, but i needed a way to effectively query for an address and there is nothing of that nature available else. i went through and manually cleaned the data for subsequent further use; if you build the project locally, you will either need to do so yourself OR just replace the final_204.csv file with the one included in the repo.
 
