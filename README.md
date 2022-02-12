@@ -3,13 +3,13 @@
 1. school.py
   desc: fetches school names for top 500 public schools in the country
 2. zip.py
-  desc: fetches zip codes for the 420 schools in top420
+  desc: fetches zip codes
 3. drop_empty.py
   desc: drops rows with empty zip codes
 4. drop_dupes.py
-  desc: drops duplicate schools
+  desc: drops duplicate schools - you are left with 203, hence the name final_203.csv
 
-final_212.csv is then used for the market modelling. keep in mind that the zip fetching function is inaccurate; while it grabs all zip codes on the page, some are wrong. this is uncommon, but still happens. i went through and manually cleaned the data for subsequent further use; if you build the file locally, you will either need to do so yourself OR just replace the final_212.csv file with the one included in the repo.
+final_203.csv is used for the market modelling. keep in mind that the zip fetching function is inaccurate; while it grabs all zip codes on the page, some are wrong. this is uncommon, but still happens. i went through and manually cleaned the data for subsequent further use; if you build the file locally, you will either need to do so yourself OR just replace the final_203.csv file with the one included in the repo.
 
 ### what is this project
 
