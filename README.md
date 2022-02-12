@@ -25,9 +25,3 @@ see the license. anything you want, as long as you credit me.
     - drops rows with empty zip codes
     - drops duplicate school rows and duplicate zip codes
     - fetches data from RDC_Inventory.csv (current housing market data by zip from RDC), uses a matching algorithm to make matches between the zip codes in both dataframes and creates a final dataframe with the School, Zip, and market data
-
-keep in mind that the zip fetching function is inaccurate; while it grabs all zip codes on the page, some are wrong; this is because it simply makes a google search request for an address and fetches strings that are digits & == len(5). it is an ugly way of doing things, but i needed a way to effectively query for an address and there is nothing of that nature available else. i went through and manually cleaned the data for subsequent further use; if you build the project locally, you will either need to do so yourself OR just replace the final_204.csv file with the one included in the repo.
-
-keep in mind that NONE OF THE ABOVE STEPS ARE REQUIRED. if you download the Final_Data.zip folder, included will be the current_college_housing_data.csv file, which is used for the model. you are not required to go through the preliminary steps of generating 4 other .csvs to get to this final one. all you need to do is to get the .csv from the Final_Data.zip folder, place it into the data dir and start rocking.
-
-however, you are more than welcome to do a local build if you'd like to see exactly what the code is doing.
