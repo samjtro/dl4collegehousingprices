@@ -12,8 +12,10 @@ for x in range(len(final_212)):
 
 	for y in range(len(zips)):
 		zips_split = zips.split(',')
+
 		for z in range(len(zips_split)):
 			zip_code = zips_split[z]
+			
 			if (zip_code in zips_new):
 				continue
 			else:

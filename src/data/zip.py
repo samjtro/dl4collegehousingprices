@@ -17,6 +17,7 @@ for x in range(len(df['School'])):
 	spliced_soup = content.split(" ")
 
 	zip_codes = ''
+	
 	for y in spliced_soup:
 		if len(y) == 5:
 			if y.isdigit() == True:
