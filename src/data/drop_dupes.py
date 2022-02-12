@@ -9,17 +9,15 @@ for x in range(len(final_212)):
 	zips_new = []
 	school_name = final_212['School'][x]
 	zips = final_212['Zip'][x]
+	zips_split = zips.split(',')		
 
-	for y in range(len(zips)):
-		zips_split = zips.split(',')
-
-		for z in range(len(zips_split)):
-			zip_code = zips_split[z]
+	for z in range(len(zips_split)):
+		zip_code = zips_split[z]
 			
-			if (zip_code in zips_new):
-				continue
-			else:
-				zips_new.append(zip_code)
+		if (zip_code in zips_new):
+			continue
+		else:
+			zips_new.append(zip_code)
 
 	if (school_name in schools_zips.keys()):
 		continue
