@@ -1,4 +1,4 @@
-# DL4CollegeHousingPrices
+# dl4collegehousingprices
 ### what is this project
 
 Deep Learning for College Housing Price Forecasting
