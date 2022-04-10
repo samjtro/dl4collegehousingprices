@@ -28,9 +28,10 @@ options -
 pages - the amount of pages to cycle through
                 '''
                 for i in range(1,pages+1):
+                        print('**working {}/{}**'.format(i,pages))
                         display = Display(visible=0, size=(800, 600))
                         display.start()
-                        browser = webdriver.Firefox()
+                        browser = webdriver.Firefox(executable_path='/home/sam/geckodriver')
                         browser.get(realtor.format(form,options,i))
 
                         status = browser.find_elements(By.XPATH,"//div[@class='jsx-3853574337']")
@@ -51,9 +52,8 @@ pages - the amount of pages to cycle through
                         browser.quit()
                         display.stop()
                         time.sleep(3)
-                        print('**working {}/{}**'.format(i,pages))
 
-Scrape()
+Scrape('Fort-Collins_CO','type-single-family-home/price-na-500000',5)
 
 df['Address'] = addresses
 df['Status'] = statuses
