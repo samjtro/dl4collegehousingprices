@@ -53,7 +53,7 @@ pages - the amount of pages to cycle through
                         display.stop()
                         time.sleep(3)
 
-Scrape('Fort-Collins_CO','type-single-family-home/price-na-500000',5)
+Scrape('Fort-Collins_CO','type-single-family-home/price-na-1000000',10)
 
 df['Address'] = addresses
 df['Status'] = statuses
