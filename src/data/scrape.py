@@ -5,8 +5,6 @@ from pyvirtualdisplay import Display
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-realtor = 'https://www.realtor.com/realestateandhomes-search/{}/{}/pg-{}'
-
 df = pd.DataFrame(columns=['Address','Status','Price','Meta'])
 
 statuses = []
@@ -14,8 +12,11 @@ prices = []
 metas = []
 addresses = []
 
-class Scrape:
-        def __init__(self,form,options,pages):
+class scrape:
+        def __init__(self):
+                ...
+
+        def __realtor__(form,options,pages):
                 '''
 form -
         for states:     'Colorado' or 'California'
@@ -27,12 +28,13 @@ options -
 
 pages - the amount of pages to cycle through
                 '''
+                url = 'https://www.realtor.com/realestateandhomes-search/{}/{}/pg-{}'
                 for i in range(1,pages+1):
                         print('**working {}/{}**'.format(i,pages))
                         display = Display(visible=0, size=(800, 600))
                         display.start()
                         browser = webdriver.Firefox(executable_path='/home/sam/geckodriver')
-                        browser.get(realtor.format(form,options,i))
+                        browser.get(url.format(form,options,i))
 
                         status = browser.find_elements(By.XPATH,"//div[@class='jsx-3853574337']")
                         for x in status: statuses.append(x.text)
@@ -53,11 +55,9 @@ pages - the amount of pages to cycle through
                         display.stop()
                         time.sleep(3)
 
-Scrape('Fort-Collins_CO','type-single-family-home/price-na-1000000',10)
+                df['Address'] = addresses
+                df['Status'] = statuses
+                df['Price'] = prices
+                df['Meta'] = metas
 
-df['Address'] = addresses
-df['Status'] = statuses
-df['Price'] = prices
-df['Meta'] = metas
-
-df.to_csv('active_homes.csv',index=False)
+                df.to_csv("data/active_homes.csv",index=False)
