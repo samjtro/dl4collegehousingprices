@@ -23,7 +23,8 @@ options -
 
 pages - the amount of pages to cycle through
                 '''
-                df = pd.DataFrame(columns=['Address','Status','Price','Meta','Bed','Bath','Sqft'])
+                url = 'https://www.realtor.com/realestateandhomes-search/{}/{}/pg-{}'
+                df = pd.DataFrame(columns=['Address','Status','Price','Meta'])
 
                 statuses = []
                 prices = []
@@ -33,7 +34,6 @@ pages - the amount of pages to cycle through
                 baths = []
                 sqfts = []
 
-                url = 'https://www.realtor.com/realestateandhomes-search/{}/{}/pg-{}'
                 for i in range(1,pages+1):
                         print('**working {}/{}**'.format(i,pages))
                         display = Display(visible=0, size=(800, 600))
