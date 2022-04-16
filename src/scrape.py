@@ -5,8 +5,6 @@ from pyvirtualdisplay import Display
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-#('Colorado','type-single-family-home/price-na-1000000',25)
-
 class scrape:
         def __init__(self):
                 ...
@@ -90,4 +88,4 @@ pages - the amount of pages to cycle through
                 df.sort_values(by=['Price'],inplace=True)
                 df = df.dropna()
 
-                return df
+                df.to_csv("data/r_realtime.csv")
