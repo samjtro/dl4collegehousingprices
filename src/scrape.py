@@ -33,7 +33,7 @@ pages - the amount of pages to cycle through
                 sqfts = []
 
                 for i in range(1,pages+1):
-                        print('**working {}/{}**'.format(i,pages))
+                        print('working {}/{}'.format(i,pages))
                         display = Display(visible=0, size=(800, 600))
                         display.start()
                         browser = webdriver.Firefox(executable_path='/home/sam/geckodriver')
@@ -88,4 +88,4 @@ pages - the amount of pages to cycle through
                 df.sort_values(by=['Price'],inplace=True)
                 df = df.dropna()
 
-                df.to_csv("data/r_realtime.csv")
+                df.to_csv("data/r_realtime.csv",index=False)
