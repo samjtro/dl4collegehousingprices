@@ -15,6 +15,6 @@ class setup:
 		s.__realtor__(o1,o2,o3)
 
 		end = time.datetime.now()-start
-		print("complete. elapsed time: ",end)
+		print("complete -- elapsed time: ",end)
 
 setup()

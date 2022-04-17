@@ -13,6 +13,7 @@ class data:
 		df = pd.DataFrame(columns=['zip_code','zip_name','median_listing_price_mm','median_listing_price_yy','active_listing_count_mm','active_listing_count_yy','median_days_on_market_mm','median_days_on_market_yy','new_listing_count_mm','new_listing_count_yy','price_increased_count_mm','price_increased_count_yy','pending_listing_count_mm','pending_listing_count_yy','average_listing_price_mm','average_listing_price_yy','total_listing_count_mm','total_listing_count_yy','pending_ratio_mm','pending_ratio_yy'])
 
 		zips = []
+		names = []
 		median_listing_price_mm = []
 		median_listing_price_yy = []
 		active_listing_count_mm = []
@@ -34,6 +35,7 @@ class data:
 
 		for a in range(len(RDC_inventory)):
 		    zips.append(RDC_inventory['postal_code'][a])
+		    names.append(RDC_inventory['zip_name'][a])
 		    median_listing_price_mm.append(RDC_inventory['median_listing_price_mm'][a])
 		    median_listing_price_yy.append(RDC_inventory['median_listing_price_yy'][a])
 		    active_listing_count_mm.append(RDC_inventory['active_listing_count_mm'][a])
@@ -56,8 +58,8 @@ class data:
 		    	print("adding data to new dataframe {}/{}".format(a,len(RDC_inventory)))
 
 		# dataframe assignment!
-		print("formatting new dataframe")
 		df['zip_code'] = zips
+		df['zip_name'] = names
 		df['median_listing_price_mm'] = median_listing_price_mm
 		df['median_listing_price_yy'] = median_listing_price_yy
 		df['active_listing_count_mm'] = active_listing_count_mm
@@ -81,4 +83,3 @@ class data:
 
 		df.to_csv('data/r_historical.csv',index=False)
 		print("historical data exported to data/r_historical.csv")
-data.__realtor__()

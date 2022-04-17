@@ -7,11 +7,8 @@ the purpose is twofold; first, i'm a college student going to school for ml/ai a
 
 ### local installation
 
-1. git clone https://github.com/samjtro/dl4collegehousingprices
-2. cd dl4collegehousingprices
-3. chmod +x install.sh
-4. ./install.sh
-5. python main.py
+0. ./install.sh
+1. python main.py
 
 ### what can i do with this project?
 
