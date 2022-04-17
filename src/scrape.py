@@ -21,7 +21,7 @@ options -
 
 pages - the amount of pages to cycle through
                 '''
-                url = 'https://www.realtor.com/realestateandhomes-search/{}/{}/pg-{}'
+                url = 'https://www.realtor.com/realestateandhomes-search/{}/type-single-family-home/price-na-{}/pg-{}'
                 df = pd.DataFrame(columns=['Address','Status','Price','Meta'])
 
                 statuses = []
@@ -89,3 +89,5 @@ pages - the amount of pages to cycle through
                 df = df.dropna()
 
                 df.to_csv("data/r_realtime.csv",index=False)
+                print("scraped data exported to data/r_realtime.csv")
+                

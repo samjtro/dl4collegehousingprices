@@ -11,9 +11,5 @@ from sklearn.ensemble import RandomForestClassifier
 df = pd.read_csv("data/r_historical.csv")
 df1 = pd.read_csv("data/r_realtime.csv")
 
-X,y = train_test_split(df,df1)
-
-RandomForestClassifier()
-
 print(df)
 print(df1)
