@@ -6,10 +6,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 class scrape:
-        def __init__(self):
-                ...
-
-        def __realtor__(form,options,pages):
+        def __init__(self,form,options,pages):
                 '''
 form -
         for states:     'Colorado' or 'California'

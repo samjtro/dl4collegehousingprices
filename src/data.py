@@ -2,9 +2,6 @@ import pandas as pd
 
 class data:
 	def __init__(self):
-		...
-
-	def __realtor__():
 		url = 'https://econdata.s3-us-west-2.amazonaws.com/Reports/Core/RDC_Inventory_Core_Metrics_Zip_History.csv'
 		RDC_inventory = pd.read_csv(url)
 		print("fetched data from {}".format(url))
