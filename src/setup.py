@@ -1,13 +1,16 @@
 from data import data
 from datetime import datetime as t
 from scrape import scrape
+from os.path import exists
 
 class setup:
 	def __init__(self):
 		start = t.now()
 
-		print("**now initiating setup for historical data**\n")
-		data()
+		if exists("data/r_historical.csv") == False:
+			print("**now initiating setup for historical data**\n")
+			data()
+
 		print("\n**now initiating setup for realtime data**")
 		o1 = input("where would you like to scan \n[Example: Fort-Collins_CO  OR  California]   ")
 		o2 = input("set your upper price bound   ")

@@ -5,9 +5,13 @@ this is a project to fetch price histories for college housing markets, then use
 
 the purpose is twofold; first, i'm a college student going to school for ml/ai and am interested in the college housing market. second, college market rental properties are fantastic investment vehicles; being able to spot low cost properties with high rental value is a critical asset. that is precisely what this project aims to do.
 
+### requirements
+
+python3, python3-pip
+
 ### local installation
 
-0. ./install.sh
+0. ./install
 1. python main.py
 
 ### what can i do with this project?

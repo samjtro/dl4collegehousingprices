@@ -1,0 +1,10 @@
+#!/bin/bash
+
+pip3 install -r 'requirements.txt'
+
+if [[ ! -d data/ ]]
+then
+	mkdir data/
+fi
+
+python3 src/setup.py

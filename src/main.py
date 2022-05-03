@@ -1,4 +1,3 @@
-import torch as t
 import pandas as pd
 import numpy as np
 
@@ -8,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 # historical == training data
 # realtime == testing data
 
-df = pd.read_csv("data/r_historical.csv")
+df = l.csv")
 df1 = pd.read_csv("data/r_realtime.csv")
 
 print(df)
